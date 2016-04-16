@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+pod 'RestKit/ObjectMapping', '~> 0.23.3'
+pod 'AFNetworking', '~> 2.3.1'
+pod 'MBProgressHUD', '~> 0.9'
+pod 'ASDepthModal', '~> 1.0.0'
+pod 'ZBarSDK', '~> 1.3.1'
+pod 'libqrencode', '~> 3.4.2'
+pod 'iVersion', '~> 1.10.6'

@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (2.3.1):
+    - AFNetworking/NSURLConnection (= 2.3.1)
+    - AFNetworking/NSURLSession (= 2.3.1)
+    - AFNetworking/Reachability (= 2.3.1)
+    - AFNetworking/Security (= 2.3.1)
+    - AFNetworking/Serialization (= 2.3.1)
+    - AFNetworking/UIKit (= 2.3.1)
+  - AFNetworking/NSURLConnection (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.3.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.3.1)
+  - AFNetworking/Security (2.3.1)
+  - AFNetworking/Serialization (2.3.1)
+  - AFNetworking/UIKit (2.3.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ASDepthModal (1.0.0)
+  - ISO8601DateFormatterValueTransformer (0.6.1):
+    - RKValueTransformers (~> 1.1.0)
+  - iVersion (1.10.6)
+  - libqrencode (3.4.2)
+  - MBProgressHUD (0.9.2)
+  - RestKit/ObjectMapping (0.23.3):
+    - ISO8601DateFormatterValueTransformer (~> 0.6.0)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.1.0)
+  - RestKit/Support (0.23.3):
+    - TransitionKit (= 2.1.0)
+  - RKValueTransformers (1.1.3)
+  - TransitionKit (2.1.0)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.3.1)
+  - ASDepthModal (~> 1.0.0)
+  - iVersion (~> 1.10.6)
+  - libqrencode (~> 3.4.2)
+  - MBProgressHUD (~> 0.9)
+  - RestKit/ObjectMapping (~> 0.23.3)
+  - ZBarSDK (~> 1.3.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05b9f6e3aa5ac45bc383b4bb108ef338080a26c7
+  ASDepthModal: c84ba6596c8f6aef3cadacdc979d287ed2915c64
+  ISO8601DateFormatterValueTransformer: 52da467d6ec899d6aedda8e48280ac92e8ee97e6
+  iVersion: 4f941852969a9dc27edd55e39b809a59ad23137b
+  libqrencode: 43dc34b89af83ea4b07c409cd8e09c87aa3a1c9f
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  RestKit: e761211cf026c0d56b01d0c2fa1fe8903dc4e4f3
+  RKValueTransformers: e5ed67e3811229b616fe01bddeeafe3bb337b1b9
+  TransitionKit: bc306605fb5e05a743c18d42239dc0e211619547
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+COCOAPODS: 0.39.0
